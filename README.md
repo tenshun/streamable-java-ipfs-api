@@ -1,4 +1,4 @@
-##Streaming Java IPFS API
+## Streaming Java IPFS API
 
 ### Java implementation of IPFS API https://github.com/ipfs/go-ipfs/blob/master/docs/implement-api-bindings.md
 
